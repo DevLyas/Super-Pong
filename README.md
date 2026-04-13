@@ -13,6 +13,7 @@ A simple pong game made with C and Raylib.
 
 - C compiler (gcc, clang, ...)
 - Raylib
+- Cmake
 
 ## Quick start
 
