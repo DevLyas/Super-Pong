@@ -16,15 +16,15 @@ A simple pong game made with C and Raylib.
 
 ## Quick start
 
-- create the build directory and enter it
+- create the build directory and enter it  
 `mkdir build && cd build`
 
-- run cmake
+- run cmake  
 `cmake ..`
 
-- build the game
+- build the game  
 `make`
 
-- run the game
+- run the game  
 `./pong`
 
