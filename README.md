@@ -3,11 +3,7 @@
 
 A simple pong game made with C and Raylib.
 
-![logo screen](/assets/img/logo.png)
-![title menu](/assets/img/title.png)
 ![game screen](/assets/img/game.png)
-![pause menu](/assets/img/pause.png)
-![endgame menu](/assets/img/endgame.png)
 
 ## Dependencies
 
